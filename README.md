@@ -1,1 +1,4 @@
-# ajax-pagination-module-12-theory-q-a
+# parcel-project-template
+
+- [fontawesome](https://fontawesome.com/)
+- [date-fns](https://date-fns.org/)
